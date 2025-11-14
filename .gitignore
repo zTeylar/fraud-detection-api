@@ -2,5 +2,8 @@
 data/
 __pycache__/
 *.pyc
-
+*.pkl
+*.joblib
 .ipynb_checkpoints
+
+models/
